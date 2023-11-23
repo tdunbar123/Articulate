@@ -1,0 +1,100 @@
+Chair
+Table
+Sofa
+Lamp
+Clock
+Pillow
+Blanket
+Rug
+Curtains
+Vase
+Picture frame
+Mirror
+Bookshelf
+Cabinet
+Drawer
+Desk
+Computer
+Keyboard
+Mouse
+Printer
+Scanner
+Phone
+Tablet
+TV
+Remote control
+Speaker
+Headphones
+Camera
+Tripod
+Microphone
+Guitar
+Drums
+Piano
+Keyboard instrument
+Violin
+Saxophone
+Flute
+Trumpet
+Trombone
+Harp
+Microscope
+Telescope
+Binoculars
+Compass
+Map
+Globe
+Magnifying glass
+Thermometer
+Barometer
+Scale
+Thermos
+Coffee maker
+Toaster
+Blender
+Mixer
+Oven
+Stove
+Microwave
+Refrigerator
+Freezer
+Dishwasher
+Washing machine
+Dryer
+Iron
+Vacuum cleaner
+Broom
+Mop
+Bucket
+Sponge
+Brush
+Comb
+Hair dryer
+Razor
+Toothbrush
+Floss
+Soap
+Shampoo
+Conditioner
+Lotion
+Perfume
+Cologne
+Lipstick
+Mascara
+Eyeliner
+Nail polish
+Hair clip
+Earring
+Necklace
+Bracelet
+Ring
+Watch
+Wallet
+Purse
+Backpack
+Briefcase
+Umbrella
+Sunglasses
+Hat
+Scarf
+Gloves
