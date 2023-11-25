@@ -215,7 +215,7 @@ players = [Player(1,RED),Player(2,BLUE)]
 players[0].turn = True
 squarefont = pygame.font.SysFont('Arial', 15, True, False)
 spadefont = pygame.font.SysFont('Arial', 30, True, False)
-titlefont = pygame.font.SysFont('Arial', 45, True, False)
+titlefont = pygame.font.SysFont('Arial', 30, True, False)
 buttonfont = pygame.font.SysFont('Arial Black', 55, True, False)
 turnActive = False
 go = Button(pygame.Rect(200,250,200,100),GREEN,(20,190,78),'GO!')
@@ -373,7 +373,8 @@ async def main():
             screen.blit(titlefont.render('TIME!',True,RED),(250,300))
         pygame.display.flip()
         if drawtimeout:
-            pygame.time.wait(5000)
+            #pygame.time.wait(5000)
+            await asyncio.sleep(5)
             drawtimeout = False
         await asyncio.sleep(0)
 
